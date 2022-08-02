@@ -4,6 +4,8 @@ public class GitTest {
 
 	public void display(){
 }
+public void apicall(){
+}
 
 
 }
